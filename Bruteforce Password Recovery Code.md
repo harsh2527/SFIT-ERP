@@ -1,5 +1,5 @@
 ### Summary 
-It is possible to bruteforce recovery code from email on SFITerp as it dosen't have incorrect input limt. I have tried 80+ different combinations until i reached the 6 code user received on email. 
+It is possible to bruteforce recovery code from email on SFIT-erp as it dosen't have incorrect input limt. I have tried 80+ different combinations until i reached the 6 code user received on email. 
 ````
 Steps to Reproduce:- 
 1.  Click "Reset password" option on the erp portal(sfiterp.sfit.co.in:98/reset_password.asp).
